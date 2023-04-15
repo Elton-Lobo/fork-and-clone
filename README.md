@@ -13,3 +13,8 @@ Stevie's favorite ice cream flavors:
 - Meal worm
 - Shrimp flakes
 - Sunflower seed
+
+Elton's favorite ice cream flavors:
+
+- Butterscotch
+- Strawberry
